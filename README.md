@@ -13,8 +13,9 @@ A more detailed info page can be found at
 
 Key | Function
 --- | --------
-CAPS | Setup menu (see image above)
-Return | Launch Atari with cart/disks/tape, BASIC off
+Caps | Setup menu (see image above)
+Return | Launch Atari with currently selected cart/disks/tape, BASIC off
+Space | Launch Atari with already assigned disks, BASIC off
 Option+Return | Launch Atari, BASIC on
 Delete | Move one directory up / Exit search
 Shift+ESC | Disable and exit AVGCART
