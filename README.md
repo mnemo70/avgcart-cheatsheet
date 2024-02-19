@@ -7,7 +7,7 @@ on the AVGCART / SUBCART for Atari 8-bit computers from
 A more detailed info page can be found at
 [De Re AVGCART](https://atari8bit.net/tutorials/de-re-avgcart/).
 
-![Main Menu of SUBCART](mainmenu.png)
+![Main Menu of SUBCART](subcartmenu.png)
 
 ## Keyboard Functions
 
